@@ -1,0 +1,8 @@
+*.nii
+*.png
+*.npz
+*.pyc
+*.txt
+events.*
+model/*
+data/*
