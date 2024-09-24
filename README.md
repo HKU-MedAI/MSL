@@ -1,5 +1,6 @@
 # Multi-sensor Learning Enables Information Transfer across Different Sensory Data and Augments Multi-modality Imaging (TPAMI 2024)
 
+This is the official code for [**Multi-sensor Learning Enables Information Transfer across Different Sensory Data and Augments Multi-modality Imaging**](https://ieeexplore.ieee.org/document/10685142).
 
 ### Abstract
 
