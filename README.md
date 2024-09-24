@@ -34,4 +34,14 @@ Multi-modality imaging is widely used in clinical practice and biomedical resear
 
 ### Citation
 
-TBD.
+If you find our work useful, please kindly cite as:
+
+```
+@article{zhu2024multi,
+  title={Multi-sensor Learning Enables Information Transfer across Different Sensory Data and Augments Multi-modality Imaging},
+  author={Zhu, Lingting and Chen, Yizheng and Liu, Lianli and Xing, Lei and Yu, Lequan},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  year={2024},
+  publisher={IEEE}
+}
+```
